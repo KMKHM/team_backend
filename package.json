@@ -7,10 +7,7 @@
     "start": "node index.js",
     "heroku-postbuild": "npm install"
   },
-  "engines": {
-    "node": "16.14.0",
-    "npm": ">=6.0.0"
-  },
+
   "keywords": [],
   "author": "",
   "license": "MIT",
